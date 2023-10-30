@@ -1,3 +1,0 @@
-# Class Project Proposal
-
-## Author
