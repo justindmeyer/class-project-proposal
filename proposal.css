@@ -1,0 +1,14 @@
+h1 {background-color: cadetblue;}
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif}
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif}
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+div.list {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ul.mylist {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+div.list {text-align: center;}
+ul.mylist {
+    display: inline-block;
+    text-align: left;
+  }
